@@ -1,0 +1,59 @@
+/* BlogDetails.css */
+
+/* General Styles */
+.blog-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Blog Image */
+  .blog-main-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Author Box */
+  .author-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .author-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+  .author-details h3, p {
+    margin: 0;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+  
+  .author-details p {
+    margin: 2px 0;
+    color: #555;
+  }
+  
+  /* Blog Title */
+  .blog-title {
+    font-size: 2rem;
+    margin: 20px 0;
+    color: #333;
+    text-align: left;
+  }
+  
+  /* Blog Content */
+  .blog-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #444;
+    margin-top: 10px;
+    text-align: left;
+  }
+  
