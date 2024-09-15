@@ -13,7 +13,7 @@ function BlogDetails() {
 
       {/* Author Box */}
       <div className="author-box">
-        <img className="author-image" src="/images/img.webp" alt="Author" />
+        <img className="author-image" src="/images/profile.jpg" alt="Author" />
         <div className="author-details">
           <h3>Roo Dov</h3>
           <p style={{ font: 12 }}>CEO - President</p>
